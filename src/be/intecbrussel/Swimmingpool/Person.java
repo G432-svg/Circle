@@ -22,7 +22,7 @@ public class Person{
             this.firstName = firstName;
         }
         else {
-            this.firstName = "anonymous";
+            this.firstName = "anonimus";
         }
     }
 
@@ -35,7 +35,7 @@ public class Person{
         if (lastName != null){
             this.lastName = lastName;}
         else{
-            this.lastName = "anonymous";
+            this.lastName = "anonimus";
         }
     }
 
